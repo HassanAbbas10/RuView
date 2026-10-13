@@ -1,7 +1,7 @@
 {
   "name": "@ruv/ruview-cli",
   "version": "0.0.1",
-  "description": "RuView CLI — shell access to WiFi-DensePose sensing, inference, and training capabilities. Private/unpublished; the `ruview` bin name belongs to @ruvnet/ruview (ADR-265 D4).",
+  "description": "RuView CLI \u2014 shell access to WiFi-DensePose sensing, inference, and training capabilities. Private/unpublished; the `ruview` bin name belongs to @ruvnet/ruview (ADR-265 D4).",
   "private": true,
   "type": "module",
   "main": "dist/index.js",

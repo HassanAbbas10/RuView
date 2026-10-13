@@ -1,7 +1,7 @@
 {
   "name": "wifi-veil-harness",
   "version": "0.1.0",
-  "description": "Harness for wifi-veil (WiFi Veil — compliant-waveform WiFi-sensing privacy shield, ADR-288/289)",
+  "description": "Harness for wifi-veil (WiFi Veil \u2014 compliant-waveform WiFi-sensing privacy shield, ADR-288/289)",
   "license": "MIT",
   "type": "module",
   "bin": {
